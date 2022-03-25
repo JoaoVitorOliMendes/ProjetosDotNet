@@ -121,7 +121,7 @@ namespace ProjetosDotNet
                 if (!pilha.Vazia())
                 {
                     val2 = pilha.Desempilhar();
-                    int soma = val1 / val2;
+                    int soma = val2 / val1;
                     pilha.Empilhar(soma);
                     Console.WriteLine(soma);
                     return;

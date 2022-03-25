@@ -44,7 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AleatorioMatriz.cs" />
+    <Compile Include="Fila.cs" />
+    <Compile Include="FilaMain.cs" />
     <Compile Include="Pilha.cs" />
+    <Compile Include="PilhaMain.cs" />
     <Compile Include="PreencheMatriz.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

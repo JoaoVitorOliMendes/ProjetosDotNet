@@ -46,6 +46,10 @@
     <Compile Include="AleatorioMatriz.cs" />
     <Compile Include="Fila.cs" />
     <Compile Include="FilaMain.cs" />
+    <Compile Include="ListaEncadeada.cs" />
+    <Compile Include="ListaEncadeadaMain.cs" />
+    <Compile Include="MaxMin.cs" />
+    <Compile Include="MaxMinMain.cs" />
     <Compile Include="Pilha.cs" />
     <Compile Include="PilhaMain.cs" />
     <Compile Include="PreencheMatriz.cs" />
